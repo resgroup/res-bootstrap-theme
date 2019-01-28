@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/resgroup/res-bootstrap-theme/issues"
   },
-  "homepage": "https://github.com/resgroup/res-bootstrap-theme#readme"
+  "homepage": "https://github.com/resgroup/res-bootstrap-theme#readme",
+  "dependencies": {
+    "bootstrap": "3.3.7"
+  }
 }
