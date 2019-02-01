@@ -1,22 +1,45 @@
 {
-  "name": "res-bootstrap-theme",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "git+https://github.com/resgroup/res-bootstrap-theme.git",
+  "_id": "res-bootstrap-theme@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/res-bootstrap-theme",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "res-bootstrap-theme@git+https://github.com/resgroup/res-bootstrap-theme.git",
+    "name": "res-bootstrap-theme",
+    "escapedName": "res-bootstrap-theme",
+    "rawSpec": "git+https://github.com/resgroup/res-bootstrap-theme.git",
+    "saveSpec": "git+https://github.com/resgroup/res-bootstrap-theme.git",
+    "fetchSpec": "https://github.com/resgroup/res-bootstrap-theme.git",
+    "gitCommittish": null
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/resgroup/res-bootstrap-theme.git#83840784b6d06104456a2a0727f3f911a40aed4a",
+  "_spec": "res-bootstrap-theme@git+https://github.com/resgroup/res-bootstrap-theme.git",
+  "_where": "C:\\Work\\Repositories\\curtailment",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/resgroup/res-bootstrap-theme/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Bootstrap 3.3.7 theme for RES, customised with http://getbootstrap.com/customize/",
+  "gitHead": "83840784b6d06104456a2a0727f3f911a40aed4a",
+  "homepage": "https://github.com/resgroup/res-bootstrap-theme#readme",
+  "license": "ISC",
+  "main": "bootstrap/js/bootstrap",
+  "name": "res-bootstrap-theme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/resgroup/res-bootstrap-theme.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/resgroup/res-bootstrap-theme/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/resgroup/res-bootstrap-theme#readme",
-  "dependencies": {
-    "bootstrap": "3.3.7"
-  }
+  "style": "bootstrap/css/bootstrap.css",
+  "version": "1.0.0"
 }
